@@ -1,5 +1,7 @@
 package com.bts.appbts.Model;
 
+import lombok.Data;
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
